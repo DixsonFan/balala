@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedParking</string>
+    <string name="main_map">车位</string>
+    <string name="main_i">我</string>
+    <string name="main_park">停车</string>
+</resources>
